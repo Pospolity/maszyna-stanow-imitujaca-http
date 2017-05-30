@@ -1,0 +1,1 @@
+# maszyna-stanow-imitujaca-http
