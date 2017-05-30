@@ -1,4 +1,4 @@
-// maszyna stanow realizujaca cos w rodzaju protokolu http, oraz prosta implementacja klienta i serwera
+// maszyna stanow realizujaca cos w rodzaju protokolu http, oraz prosta symulacja klienta i serwera
 // serwer jest tablica, ktorej komorki zawieraja ciagi znakow bez znakow bialych, kazda komorka zawiera odpowiednie wartosci oznaczajace niemozliwosc modyfikacji, lub niemozliwosc usuwania zawartosci tej komorki przez uzytkownika
 // uzytkownik dostaje do uzytku trzy komendy - operacje:
 // GET adres				- pobiera zawartosc komorki o podanym adresie
